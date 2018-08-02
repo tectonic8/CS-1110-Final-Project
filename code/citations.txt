@@ -1,0 +1,3 @@
+filename: "boss.png"
+Source: https://commons.wikimedia.org/wiki/File:Ezra_Cornell.jpg
+License: public domain
